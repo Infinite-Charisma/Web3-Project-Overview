@@ -45,7 +45,7 @@ Foster Marketplace is the first DAO-governed NFT marketplace & web3 streaming pr
 <h3><u><strong><i>Dworfz</i></strong></u> &nbsp;(Solana NFT Raiding Platform)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/Infinite-Charisma/Web3-Project-Overview/assets/113470939/8748c72a-9926-49ea-b885-c646d8ea63e5">
+<img align="right" width="300px" src="https://github.com/Infinite-Charisma/Web3-Project-Overview/assets/113470939/f2fb5e36-12c4-4ba9-86f3-eb85f3773cbe">
 
 Dworfz is a NFT raiding platform built based on Solana network. Users can apply to raid their NFT collections and the raiding is working as a raffle type so participants purchase tickets by following, like, commenting their posts on X as well as joining the discord server. Once the raffle is ended, they choose a one winner and send a specific amount of sol to the winner as reward.
 
