@@ -105,7 +105,7 @@ This is mint website on avalanche network. I used Solidity(ERC 721) to write sma
 
 This is Bitcoin ordinal project which shows ordinal NFTs according to the wallet address. If you type your BTC address, you can see your ordinal NFTs and points depends on the purchased date of them.
 
-- Link: <a href="ttps://bitcoinbees.io">Website</a>
+- Link: <a href="https://bmpbrc.com/">Website</a>
 
 <h3><u><strong><i>Bitcoin Bees</i></strong></u> &nbsp;(Bitcoin Ordinals)</h3>
 <hr />
@@ -114,7 +114,7 @@ This is Bitcoin ordinal project which shows ordinal NFTs according to the wallet
 
 This is BRC-20 token airdrop project. Users can claim $BMP BRC-20 token if they have Bitmap ordinal NFTs in their wallet.
 
-- Link: <a href="https://bmpbrc.com/">Website</a>
+- Link: <a href="https://bitcoinbees.io">Website</a>
 
 <h3><u><strong><i>PlayZel</i></strong></u> &nbsp;(Multi-chain Crypto Betting Game)</h3>
 <hr />
