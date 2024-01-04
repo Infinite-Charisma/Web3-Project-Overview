@@ -98,14 +98,23 @@ This is mint website on avalanche network. I used Solidity(ERC 721) to write sma
     - Need to put discord Name or Id
     - Avalanche network
 
+<h3><u><strong><i>BMP Token Airdrp</i></strong></u> &nbsp;(Bitcoin BRC-20)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/Infinite-Charisma/Web3-Project-Overview/assets/113470939/948c8a6c-e410-4ea2-99aa-04db166c2d95">
+
+This is Bitcoin ordinal project which shows ordinal NFTs according to the wallet address. If you type your BTC address, you can see your ordinal NFTs and points depends on the purchased date of them.
+
+- Link: <a href="ttps://bitcoinbees.io">Website</a>
+
 <h3><u><strong><i>Bitcoin Bees</i></strong></u> &nbsp;(Bitcoin Ordinals)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/Infinite-Charisma/Web3-Project-Overview/assets/113470939/d2d42f6c-06cc-4e21-9081-888453e9599f">
 
-This is Bitcoin ordinal project which shows ordinal NFTs according to the wallet address. If you type your BTC address, you can see your ordinal NFTs and points depends on the purchased date of them.
+This is BRC-20 token airdrop project. Users can claim $BMP BRC-20 token if they have Bitmap ordinal NFTs in their wallet.
 
-- Link: <a href="https://bitcoinbees.io">Website</a>
+- Link: <a href="https://bmpbrc.com/">Website</a>
 
 <h3><u><strong><i>PlayZel</i></strong></u> &nbsp;(Multi-chain Crypto Betting Game)</h3>
 <hr />
